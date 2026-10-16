@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Comprehensive weather intelligence dashboard featuring current conditions, 7-day forecasts, trend charts, and smart activity planning recommendations powered by Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
